@@ -2,8 +2,6 @@
 
 The **Ecological Resource Aggregator** is a tool designed to efficiently retrieve and process climate-related research documents. By constructing a knowledge graph and implementing an intuitive query system, it enables users to easily find relevant ecological resources.
 
-## NOTE: See web platform running at 3.135.238.223:5050
-
 ## Table of Contents
 
 - [Dependencies](#dependencies)
